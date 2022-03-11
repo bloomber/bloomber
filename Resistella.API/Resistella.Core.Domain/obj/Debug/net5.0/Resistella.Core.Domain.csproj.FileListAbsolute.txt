@@ -1,0 +1,15 @@
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.AssemblyInfo.cs
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\Resistella.Core.Domain.deps.json
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\Resistella.Core.Domain.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\ref\Resistella.Core.Domain.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\Resistella.Core.Domain.pdb
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\ref\Resistella.Core.Domain.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.pdb
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\Resistella.Core.Framework.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\bin\Debug\net5.0\Resistella.Core.Framework.pdb
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Domain\obj\Debug\net5.0\Resistella.Core.Domain.csproj.CopyComplete

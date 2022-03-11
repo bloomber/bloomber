@@ -1,0 +1,23 @@
+﻿cmd	===>
+dotnet ef migrations add InitiDatabase --startup-project . --project=..\Resistella.Core.Data.Migrations
+
+
+Answer	===>
+Build started...
+Build succeeded.
+
+20211216083753_InitiDatabase
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+cmd ===>
+dotnet ef database update  --startup-project . --project=..\Resistella.Core.Data.Migrations
+
+
+Answer ===>
+
+Build started...
+Build succeeded.
+
+Applying migration '20211216134235_InitiDatabase'.
+Done.

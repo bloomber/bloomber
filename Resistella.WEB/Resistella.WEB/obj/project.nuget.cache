@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVG2mRV3Uge5Yzqnn1KvArNHbHtb7FnOQSZQDr7aU56mNlmlDhglBXLnoan7DrbQRVcvHDNBfjm5bsQyJpLDfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mfortunati\\source\\repos\\Resistella\\Resistella.WEB\\Resistella.WEB\\Resistella.WEB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfortunati\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

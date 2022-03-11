@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Resistella.API",
+    "\\Resistella.API\\Resistella.API",
+    "\\Resistella.API\\Resistella.API.IU",
+    "\\Resistella.API\\Resistella.API.IU\\Controllers",
+    "\\Resistella.API\\Resistella.Core.Infrastructures",
+    "\\Resistella.API\\Resistella.Core.Infrastructures\\Data",
+    "\\Resistella.API\\Resistella.Core.Infrastructures\\Data\\Repository"
+  ],
+  "SelectedNode": "\\Resistella.API\\Resistella.Core.Infrastructures\\Data\\Repository\\CollectionObjectRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

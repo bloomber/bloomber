@@ -1,0 +1,12 @@
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\bin\Debug\net5.0\Resistella.Core.Framework.deps.json
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\bin\Debug\net5.0\Resistella.Core.Framework.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\bin\Debug\net5.0\ref\Resistella.Core.Framework.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\bin\Debug\net5.0\Resistella.Core.Framework.pdb
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.AssemblyInfoInputs.cache
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.AssemblyInfo.cs
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.csproj.CoreCompileInputs.cache
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\ref\Resistella.Core.Framework.dll
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.pdb
+C:\Users\mfortunati\source\repos\Resistella\Resistella.API\Resistella.Core.Framework\obj\Debug\net5.0\Resistella.Core.Framework.csproj.AssemblyReference.cache
